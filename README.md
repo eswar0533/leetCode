@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/eswar0533/leetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0622-design-circular-queue](https://github.com/eswar0533/leetCode/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/eswar0533/leetCode/tree/master/0933-number-of-recent-calls) |
 ## Matrix
 |  |
 | ------- |
@@ -76,4 +77,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/eswar0533/leetCode/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/eswar0533/leetCode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/eswar0533/leetCode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
