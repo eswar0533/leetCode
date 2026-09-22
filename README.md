@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/eswar0533/leetCode/tree/master/0049-group-anagrams) |
+| [0649-dota2-senate](https://github.com/eswar0533/leetCode/tree/master/0649-dota2-senate) |
 ## Sorting
 |  |
 | ------- |
@@ -77,9 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/eswar0533/leetCode/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/eswar0533/leetCode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/eswar0533/leetCode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/eswar0533/leetCode/tree/master/0933-number-of-recent-calls) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/eswar0533/leetCode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
