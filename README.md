@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/eswar0533/leetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/eswar0533/leetCode/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/eswar0533/leetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/eswar0533/leetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/eswar0533/leetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Design
 |  |
@@ -106,4 +107,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/eswar0533/leetCode/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/eswar0533/leetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
