@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/eswar0533/leetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/eswar0533/leetCode/tree/master/0347-top-k-frequent-elements) |
 | [0622-design-circular-queue](https://github.com/eswar0533/leetCode/tree/master/0622-design-circular-queue) |
+| [0739-daily-temperatures](https://github.com/eswar0533/leetCode/tree/master/0739-daily-temperatures) |
 | [0930-binary-subarrays-with-sum](https://github.com/eswar0533/leetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/eswar0533/leetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Design
@@ -90,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/eswar0533/leetCode/tree/master/0649-dota2-senate) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/eswar0533/leetCode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/eswar0533/leetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
