@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/eswar0533/leetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/eswar0533/leetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0239-sliding-window-maximum](https://github.com/eswar0533/leetCode/tree/master/0239-sliding-window-maximum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/eswar0533/leetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/eswar0533/leetCode/tree/master/0347-top-k-frequent-elements) |
 | [0622-design-circular-queue](https://github.com/eswar0533/leetCode/tree/master/0622-design-circular-queue) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/eswar0533/leetCode/tree/master/0239-sliding-window-maximum) |
 | [0930-binary-subarrays-with-sum](https://github.com/eswar0533/leetCode/tree/master/0930-binary-subarrays-with-sum) |
 ## String
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/eswar0533/leetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/eswar0533/leetCode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/eswar0533/leetCode/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/eswar0533/leetCode/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/eswar0533/leetCode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/eswar0533/leetCode/tree/master/0933-number-of-recent-calls) |
@@ -108,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/eswar0533/leetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/eswar0533/leetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/eswar0533/leetCode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/eswar0533/leetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
