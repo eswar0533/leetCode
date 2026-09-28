@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/eswar0533/leetCode/tree/master/0347-top-k-frequent-elements) |
 | [0622-design-circular-queue](https://github.com/eswar0533/leetCode/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/eswar0533/leetCode/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/eswar0533/leetCode/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/eswar0533/leetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/eswar0533/leetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Design
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/eswar0533/leetCode/tree/master/0739-daily-temperatures) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/eswar0533/leetCode/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
