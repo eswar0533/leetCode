@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/eswar0533/leetCode/tree/master/0155-min-stack) |
 | [0304-range-sum-query-2d-immutable](https://github.com/eswar0533/leetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0622-design-circular-queue](https://github.com/eswar0533/leetCode/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/eswar0533/leetCode/tree/master/0933-number-of-recent-calls) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/eswar0533/leetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/eswar0533/leetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
