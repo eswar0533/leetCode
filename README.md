@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/eswar0533/leetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/eswar0533/leetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/eswar0533/leetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1652-defuse-the-bomb](https://github.com/eswar0533/leetCode/tree/master/1652-defuse-the-bomb) |
 ## Design
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/eswar0533/leetCode/tree/master/0239-sliding-window-maximum) |
 | [0930-binary-subarrays-with-sum](https://github.com/eswar0533/leetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [1652-defuse-the-bomb](https://github.com/eswar0533/leetCode/tree/master/1652-defuse-the-bomb) |
 ## String
 |  |
 | ------- |
