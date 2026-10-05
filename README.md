@@ -56,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/eswar0533/leetCode/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/eswar0533/leetCode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/eswar0533/leetCode/tree/master/0347-top-k-frequent-elements) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/eswar0533/leetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/eswar0533/leetCode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/eswar0533/leetCode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/eswar0533/leetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/eswar0533/leetCode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/eswar0533/leetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/eswar0533/leetCode/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/eswar0533/leetCode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/eswar0533/leetCode/tree/master/0707-design-linked-list) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/eswar0533/leetCode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/eswar0533/leetCode/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/eswar0533/leetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -143,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/eswar0533/leetCode/tree/master/0141-linked-list-cycle) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/eswar0533/leetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
